@@ -4,3 +4,4 @@ streamlit
 pickle
 sckit-learn
 pip==23.1.2
+streamlit_option_menu
